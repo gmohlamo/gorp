@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/DharmaOfCode/gorp/api"
-	"github.com/DharmaOfCode/gorp/modules"
+	"github.com/gmohlamo/gorp/api"
+	"github.com/gmohlamo/gorp/modules"
 	"strings"
 )
 

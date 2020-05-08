@@ -3,9 +3,10 @@ package modules
 
 import (
 	"fmt"
-	"github.com/DharmaOfCode/gorp/base"
-	"github.com/fatih/color"
 	"plugin"
+
+	"github.com/fatih/color"
+	"github.com/gmohlamo/gorp/base"
 )
 
 // Modules holds selected processors and inspectors to be used in a gorp session

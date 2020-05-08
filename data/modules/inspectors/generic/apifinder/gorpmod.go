@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DharmaOfCode/gorp/modules"
+	"github.com/gmohlamo/gorp/modules"
 	"log"
 	"os"
 	"strings"
